@@ -33,7 +33,7 @@ Android apps I worked on
 * Camera Permissions
 
 # *Business Card Scanner* #
-## *Scan QR Code directly through your mobile* ##
+## *Scan Business Card and SAve it to your phonebook* ##
 
 
 
