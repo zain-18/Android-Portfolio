@@ -11,6 +11,11 @@ Android apps I worked on
 * Training and Test data will be used
 * Intelligent decision making using data mining algorithm
 
+### What I learned ###
+* Android Development
+* Integrating Rest Api's
+
+
 
 
 
