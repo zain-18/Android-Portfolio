@@ -6,10 +6,10 @@ Android apps I worked on
 
 ### *Specifications* ###
 
-*An Android based application
-*Helps doctor in decision making
-*Training and Test data will be used
-*Intelligent decision making using data mining algorithm
+* An Android based application
+* Helps doctor in decision making
+* Training and Test data will be used
+* Intelligent decision making using data mining algorithm
 
 
 
