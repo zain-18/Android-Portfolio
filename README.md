@@ -33,7 +33,8 @@ Android apps I worked on
 * Camera Permissions
 
 # *Business Card Scanner* #
-## *Scan Business Card and SAve it to your phonebook* ##
+## *Scan Business Card and Save it to your phonebook* ##
+<img src="https://github.com/zain-18/Android-Portfolio/blob/main/business%20card%20scanner/app/src/main/res/drawable/business_one.png" width="200"/><img src="https://github.com/zain-18/Android-Portfolio/blob/main/business%20card%20scanner/app/src/main/res/drawable/business_two.png" width="200"/><img src="https://github.com/zain-18/Android-Portfolio/blob/main/business%20card%20scanner/app/src/main/res/drawable/business_third.png" width="200"/><img src="https://github.com/zain-18/Android-Portfolio/blob/main/business%20card%20scanner/app/src/main/res/drawable/business_forth.png" width="200"/>
 
 
 
