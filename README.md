@@ -18,6 +18,7 @@ Android apps I worked on
 ## *QR Scanner Pro* ##
 
 ### *Scan QR Code directly through your mobile* ###
+<img src="https://github.com/zain-18/Android-Portfolio/blob/main/QRcodescanner/app/src/main/ic_launcher-web.png" width="150"/><img src="https://github.com/zain-18/Android-Portfolio/blob/main/QRcodescanner/app/src/main/res/drawable/qr_one.png" width="150"/><img src="https://github.com/zain-18/Android-Portfolio/blob/main/QRcodescanner/app/src/main/res/drawable/qr_two.png" width="150"/><img src="https://github.com/zain-18/Android-Portfolio/blob/main/QRcodescanner/app/src/main/res/drawable/qr_third.png" width="150"/><img src="https://github.com/zain-18/Android-Portfolio/blob/main/QRcodescanner/app/src/main/res/drawable/qr_forth.png" width="150"/>
 
 
 
