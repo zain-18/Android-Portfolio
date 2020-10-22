@@ -18,7 +18,7 @@ Android apps I worked on
 # *QR Scanner Pro* #
 
 ## *Scan QR Code directly through your mobile* ##
-<img src="https://github.com/zain-18/Android-Portfolio/blob/main/QRcodescanner/app/src/main/res/drawable/qr_one.png" width="150"/><img src="https://github.com/zain-18/Android-Portfolio/blob/main/QRcodescanner/app/src/main/res/drawable/qr_two.png" width="150"/><img src="https://github.com/zain-18/Android-Portfolio/blob/main/QRcodescanner/app/src/main/res/drawable/qr_third.png" width="150"/><img src="https://github.com/zain-18/Android-Portfolio/blob/main/QRcodescanner/app/src/main/res/drawable/qr_forth.png" width="150"/>
+<img src="https://github.com/zain-18/Android-Portfolio/blob/main/QRcodescanner/app/src/main/res/drawable/qr_one.png" width="150"/><img src="https://github.com/zain-18/Android-Portfolio/blob/main/QRcodescanner/app/src/main/res/drawable/qr_two.png" width="150"/><img src="https://github.com/zain-18/Android-Portfolio/blob/main/QRcodescanner/app/src/main/res/drawable/qr_third.png" width="150"/><img src="https://github.com/zain-18/Android-Portfolio/blob/main/QRcodescanner/app/src/main/res/drawable/qr_forth.png" width="150"/><img src="https://github.com/zain-18/Android-Portfolio/blob/main/business%20card%20scanner/app/src/main/res/drawable/scan%20Data.jpg" width="150"/><img src="https://github.com/zain-18/Android-Portfolio/blob/main/business%20card%20scanner/app/src/main/res/drawable/Save%20data.jpg" width="150"/>
 
 ### *Specifications* ###
 
