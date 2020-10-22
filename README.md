@@ -15,6 +15,11 @@ Android apps I worked on
 * Android Development
 * Integrating Rest Api's
 
+## *QR Scanner Pro* ##
+
+### *Scan QR Code directly through your mobile* ###
+
+
 
 
 
