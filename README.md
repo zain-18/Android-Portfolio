@@ -36,6 +36,18 @@ Android apps I worked on
 ## *Scan Business Card and Save it to your phonebook* ##
 <img src="https://github.com/zain-18/Android-Portfolio/blob/main/business%20card%20scanner/app/src/main/res/drawable/business_one.png" width="200"/><img src="https://github.com/zain-18/Android-Portfolio/blob/main/business%20card%20scanner/app/src/main/res/drawable/business_two.png" width="200"/><img src="https://github.com/zain-18/Android-Portfolio/blob/main/business%20card%20scanner/app/src/main/res/drawable/business_third.png" width="200"/><img src="https://github.com/zain-18/Android-Portfolio/blob/main/business%20card%20scanner/app/src/main/res/drawable/business_forth.png" width="200"/>
 
+### *Specifications* ###
+
+* Scan Business card
+* Edit the info 
+* Save to Contact
+
+### What I learned ###
+* Integrating Google Vision OCR Api
+* Camera Permissions
+* store data to Contact List through Intent
+
+
 
 
 
