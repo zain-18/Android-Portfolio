@@ -14,6 +14,7 @@
 ### What I learned ###
 * Android Development
 * Integrating Rest Api's
+* Retrofit
 
 # *QR Scanner Pro* #
 
@@ -52,7 +53,6 @@
 <img src="https://github.com/zain-18/Android-Portfolio/blob/main/WhatsApp_Status_Downloader/app/src/main/res/drawable/WA_1.jpg" width="200"/>&nbsp;<img src="https://github.com/zain-18/Android-Portfolio/blob/main/WhatsApp_Status_Downloader/app/src/main/res/drawable/WA_2.jpg" width="200"/>&nbsp;<img src="https://github.com/zain-18/Android-Portfolio/blob/main/WhatsApp_Status_Downloader/app/src/main/res/drawable/WA_3.jpg" width="200"/>&nbsp;<img src="https://github.com/zain-18/Android-Portfolio/blob/main/WhatsApp_Status_Downloader/app/src/main/res/drawable/WA_4.jpg" width="200"/>&nbsp; 
 
 ### *Specifications* ###
-
 * Save Images
 * Save Video's
 
@@ -61,6 +61,19 @@
 * Storage (Read/write) Permissions
 * Use of Internal Storage 
 
+# *KId's Learning Tube* #
+
+<img src="https://github.com/zain-18/Android-Portfolio/blob/main/Kids%20Learning%20Tube/app/src/main/res/drawable/Splash.png" width="200"/>&nbsp;<img src="https://github.com/zain-18/Android-Portfolio/blob/main/Kids%20Learning%20Tube/app/src/main/res/drawable/playlistCategories.png" width="200"/>&nbsp;<img src="https://github.com/zain-18/Android-Portfolio/blob/main/Kids%20Learning%20Tube/app/src/main/res/drawable/Playlist.png" width="200"/>
+&nbsp;<img src="https://github.com/zain-18/Android-Portfolio/blob/main/Kids%20Learning%20Tube/app/src/main/res/drawable/palayer.png" width="200"/>&nbsp;<img src="https://github.com/zain-18/Android-Portfolio/blob/main/Kids%20Learning%20Tube/app/src/main/res/drawable/Info.png" width="200"/>&nbsp; 
+
+### *Specifications* ###
+* Watch Youtube Playlist Video's
+
+
+### What I learned ###
+* Retrofit
+* YouTube DataApi
+* Webview
 
 
 
