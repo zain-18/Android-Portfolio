@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KidsLearningTube</string>
+    <string name="title_activity_sticker_pack_info">Info</string>
+    <string name="view_webpage">View webpage</string>
+    <string name="send_email">Send email</string>
+    <string name="privacy_policy">Privacy policy</string>
+</resources>
