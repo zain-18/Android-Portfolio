@@ -76,7 +76,19 @@
 * YouTube Player
 * Webview
 
+# *Video Player* #
 
+<img src="https://github.com/zain-18/Android-Portfolio/blob/main/MediaPlayer/app/src/main/res/drawable/img_1.jpg" width="200"/>&nbsp;<img src="https://github.com/zain-18/Android-Portfolio/blob/main/MediaPlayer/app/src/main/res/drawable/img_2.jpg" width="200"/>&nbsp;<img src="https://github.com/zain-18/Android-Portfolio/blob/main/MediaPlayer/app/src/main/res/drawable/img_3.jpg" width="200"/>
+&nbsp;<img src="https://github.com/zain-18/Android-Portfolio/blob/main/MediaPlayer/app/src/main/res/drawable/Img_Vert.jpeg" width="200"/>&nbsp;<img src="https://github.com/zain-18/Android-Portfolio/blob/main/MediaPlayer/app/src/main/res/drawable/img_hor.jpeg" width="200"/>&nbsp;<img src="https://github.com/zain-18/Android-Portfolio/blob/main/MediaPlayer/app/src/main/res/drawable/img_WA.jpg" width="200"/>&nbsp;<img src="https://github.com/zain-18/Android-Portfolio/blob/main/MediaPlayer/app/src/main/res/drawable/Img_Save.jpg" width="200"/>&nbsp;  
+
+### *Specifications* ###
+* Watch  Video's
+* Watch and Save WhatsApp Video's and Image's
+
+### What I learned ###
+
+* Read of Internal Storage
+* Use of Mx Player
 
 
 
