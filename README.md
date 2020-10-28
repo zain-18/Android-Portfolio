@@ -47,6 +47,21 @@
 * Camera Permissions
 * store data to Contact List through Intent
 
+# *WhatsApp Status Downloader* #
+## *Save Images And Video's* ##
+<img src="https://github.com/zain-18/Android-Portfolio/blob/main/WhatsApp_Status_Downloader/app/src/main/res/drawable/WA_1.jpg" width="200"/>&nbsp;<img src="https://github.com/zain-18/Android-Portfolio/blob/main/WhatsApp_Status_Downloader/app/src/main/res/drawable/WA_2.jpg" width="200"/>&nbsp;<img src="https://github.com/zain-18/Android-Portfolio/blob/main/WhatsApp_Status_Downloader/app/src/main/res/drawable/WA_3.jpg" width="200"/>&nbsp;<img src="https://github.com/zain-18/Android-Portfolio/blob/main/WhatsApp_Status_Downloader/app/src/main/res/drawable/WA_4.jpg" width="200"/>&nbsp; 
+
+### *Specifications* ###
+
+* Save Images
+* Save Video's
+
+### What I learned ###
+* Fragments
+* Storage (Read/write) Permissions
+* Use of Internal Storage 
+
+
 
 
 
