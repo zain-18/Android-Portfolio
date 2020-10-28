@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:background="@drawable/custom_rectangle"
+    android:layout_margin="5dp"
+    android:id="@+id/statuscardview">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:id="@+id/iv_images"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+           />
+        <Button
+            android:id="@+id/save_StatusBtn"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="@drawable/download"
+            android:layout_alignParentRight="true"
+            android:layout_margin="10dp"/>
+        <TextView
+            android:layout_width="45dp"
+            android:layout_height="30dp"
+            android:layout_alignParentBottom="true"
+            android:background="#F44A4A"
+            android:text="New"
+            android:textAlignment="center"
+            android:gravity="center_horizontal"
+            android:textColor="@color/white"/>
+
+    </RelativeLayout>
+
+
+
+
+
+</androidx.cardview.widget.CardView>
