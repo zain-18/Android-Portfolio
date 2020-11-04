@@ -140,7 +140,11 @@
 * Use of Dailymotion Api's
 
 # *Rolling Ball* #
-<iframe src="https://github.com/zain-18/Android-Portfolio/blob/main/Screenrecorder-2020-11-04-21-36-19-252.mp4" width="540" height="310"></iframe>
+const iframe = document.createElement('iframe');
+iframe.src = 'https://github.com/zain-18/Android-Portfolio/blob/main/Screenrecorder-2020-11-04-21-36-19-252.mp4';
+document.body.appendChild(iframe);
+
+const player = new playerjs.Player(iframe);
 
 
 
