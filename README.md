@@ -86,10 +86,21 @@
 * Watch and Save WhatsApp Video's and Image's
 
 ### What I learned ###
-
 * Read of Internal Storage
 * Use of Mx Player
 
+# *Wallpaper App* #
+
+<img src="https://github.com/zain-18/Android-Portfolio/blob/main/wallpaper%20App/app/src/main/res/drawable/Wallpaper_1.jpeg" width="200"/>&nbsp;<img src="https://github.com/zain-18/Android-Portfolio/blob/main/wallpaper%20App/app/src/main/res/drawable/Wallpaper_2.jpeg" width="200"/>&nbsp;<img src="https://github.com/zain-18/Android-Portfolio/blob/main/wallpaper%20App/app/src/main/res/drawable/Wallpaper_3.jpeg" width="200"/>
+&nbsp;<img src="https://github.com/zain-18/Android-Portfolio/blob/main/wallpaper%20App/app/src/main/res/drawable/Wallpaper_4.jpeg" width="200"/>
+
+### *Specifications* ###
+* Preview Wallpapers
+* Download and Set Wallpapers
+
+### What I learned ###
+* Fragments
+* use of Pixel Wallpaper Api
 
 
 
