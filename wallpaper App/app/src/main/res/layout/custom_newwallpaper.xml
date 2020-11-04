@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="500px"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="10dp"
+    android:elevation="3dp"
+    android:layout_margin="5dp"
+    android:id="@+id/newWallpaperCard">
+
+    <ImageView
+        android:id="@+id/newwallpaper"
+        android:layout_width="match_parent"
+        android:layout_height="500px"
+        android:scaleType="fitXY"
+        />
+
+</androidx.cardview.widget.CardView>
