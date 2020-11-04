@@ -140,12 +140,8 @@
 * Use of Dailymotion Api's
 
 # *Rolling Ball* #
-[![Fibonacci RMI Java EE]](https://github.com/zain-18/Android-Portfolio/blob/main/Screenrecorder-2020-11-04-21-36-19-252.mp4 "RMI Fibonacci Java")
-const iframe = document.createElement('iframe');
-iframe.src = '';
-document.body.appendChild(iframe);
+<img src="https://github.com/zain-18/Android-Portfolio/blob/main/Screenrecorder-2020-11-04-21-36-19-252.mp4" width="150" height="200" />
 
-const player = new playerjs.Player(iframe);
 
 
 
