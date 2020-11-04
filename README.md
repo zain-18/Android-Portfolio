@@ -102,6 +102,19 @@
 * Fragments
 * use of Pixel Wallpaper Api
 
+# *The Doltish Quiz* #
+
+<img src="https://github.com/zain-18/Android-Portfolio/blob/main/The%20doltish%20Quiz/app/src/main/res/drawable/Splash.png" width="200"/>&nbsp;<img src="https://github.com/zain-18/Android-Portfolio/blob/main/The%20doltish%20Quiz/app/src/main/res/drawable/default%20level.png" width="200"/>&nbsp;<img src="https://github.com/zain-18/Android-Portfolio/blob/main/The%20doltish%20Quiz/app/src/main/res/drawable/questionlist.png" width="200"/>
+&nbsp;<img src="https://github.com/zain-18/Android-Portfolio/blob/main/The%20doltish%20Quiz/app/src/main/res/drawable/enable%20Level.png" width="200"/>&nbsp;<img src="https://github.com/zain-18/Android-Portfolio/blob/main/The%20doltish%20Quiz/app/src/main/res/drawable/level%20Failed.png" width="200"/>
+
+### *Specifications* ###
+* Start Quiz
+* Pass the Quiz and enable the Next Level
+
+### What I learned ###
+* Cache to store previous pass level record 
+* Aplovin Ad's Integration
+
 
 
 
