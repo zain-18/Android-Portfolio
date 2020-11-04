@@ -110,6 +110,7 @@
 ### *Specifications* ###
 * Start Quiz
 * Pass the Quiz and enable the Next Level
+* Watch Ad to unlock Next Level
 
 ### What I learned ###
 * Cache to store previous pass level record 
