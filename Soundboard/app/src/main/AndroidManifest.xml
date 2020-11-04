@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.locantoapps.soundboard">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission
+        android:name="android.permission.WRITE_SETTINGS"
+        tools:ignore="ProtectedPermissions" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/icon_96"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/icon_96"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.locantoapps.soundboard.Page10"></activity>
+        <activity android:name="com.locantoapps.soundboard.Page9" />
+        <activity android:name="com.locantoapps.soundboard.Page8" />
+        <activity android:name="com.locantoapps.soundboard.Page7" />
+        <activity android:name="com.locantoapps.soundboard.Page6" />
+        <activity android:name="com.locantoapps.soundboard.Page5" />
+        <activity android:name="com.locantoapps.soundboard.Page4" />
+        <activity android:name="com.locantoapps.soundboard.Page3" />
+        <activity android:name="com.locantoapps.soundboard.Page2" />
+        <activity android:name="com.locantoapps.soundboard.Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.locantoapps.soundboard.MainScreen" />
+        <activity android:name="com.locantoapps.soundboard.MainActivity" />
+
+       <!-- <meta-data
+            android:name="applovin.sdk.key"
+            android:value="3TZNTPFGSka05uuSH7R8uyAFcH8aTpPXHzvlN90qtbryUiOnrrvin4zOL6zqvMLAKEwhNxVFXLB03anuPgbBlZ" />-->
+    </application>
+
+</manifest>
