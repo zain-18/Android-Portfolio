@@ -125,16 +125,16 @@
 * Press the Button and play Sounds
 
 ### What I learned ###
-*Media Properties
+* Media Properties
 
 # *Dailymotion Api Practice* #
 
 <img src="https://github.com/zain-18/Android-Portfolio/blob/main/Dailymotion%20App/app/src/main/res/drawable/Dailymotion_1.jpeg" width="200"/>&nbsp;<img src="https://github.com/zain-18/Android-Portfolio/blob/main/Dailymotion%20App/app/src/main/res/drawable/Dailymotion_2.jpeg" width="200"/>&nbsp;<img src="https://github.com/zain-18/Android-Portfolio/blob/main/Dailymotion%20App/app/src/main/res/drawable/Dailymotion_3.jpeg" width="200"/>
 
 ### *Specifications* ###
-*Fetch all Dailymotion Channel Playlist
-*Fetch all Playlist Video's
-*Integrate Dailymotion Video Player
+* Fetch all Dailymotion Channel Playlist
+* Fetch all Playlist Video's
+* Integrate Dailymotion Video Player
 
 ### What I learned ###
 * Use of Dailymotion Api's
